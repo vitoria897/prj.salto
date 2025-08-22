@@ -3,6 +3,9 @@ body{
     color: rgb(2, 2, 2);
 }
 
+element.style {
+   border: solid 1px rgb(0, 0, 0);
+}
 
 h1{
     
